@@ -1,0 +1,5 @@
+{
+  "realm": "uma-test",
+  "clientId": "uma-test-web-client",
+  "url": "http://localhost:8080/"
+}
